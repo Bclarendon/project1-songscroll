@@ -1,1 +1,33 @@
 /* THIS IS MY STYLE SHEET FOR GD 2 PROJECT 1 */
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: white;
+  background-color: black;
+  margin-left: 0;
+}
+
+/* .banner {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  TBD
+} */
+
+.title {
+  font-weight: 900;
+  font-size: 100px;
+  margin-left: 0;
+  padding-left: 0;
+  display: block;
+}
+.title2 {
+  font-weight: 900;
+  font-size: 40px;
+  letter-spacing: .1em;
+  Margin-top: -1.5em;
+  display:block;
+}
