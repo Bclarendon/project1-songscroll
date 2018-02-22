@@ -19,15 +19,73 @@ body {
 
 .title {
   font-weight: 900;
-  font-size: 100px;
+  font-size: 200px;
   margin-left: 0;
   padding-left: 0;
   display: block;
+  text-align: center;
 }
 .title2 {
   font-weight: 900;
-  font-size: 40px;
-  letter-spacing: .1em;
+  font-size: 50px;
+  letter-spacing: .6em;
   Margin-top: -1.5em;
   display:block;
+  text-align: center;
 }
+
+
+.stanza1 {
+  margin-top: 40em;
+}
+      .keep {
+        margin-left: 10%;
+      }
+      .hands {
+        margin-left: 20%;
+      }
+      .to {
+        margin-left: 35%;
+      }
+      .myself {
+        margin-left: 45%;
+      }
+      .dust {
+        font-weight: 800;
+        font-size: 50px;
+        margin-top: 1.5em;
+        display: block;
+      }
+      .shelf {
+        width: 1em;
+        font-size: 70px;
+        font-weight: 600;
+        letter-spacing: 5000px;
+        margin-left: 25%;
+        display: block;
+      }
+      .girl {
+        font-size: 40px;
+        font-style: italic;
+        float: right;
+      }
+      .field{
+        font-size: 50px;
+        margin-left: 25%;
+      }
+
+
+.stanza2 {
+  margin-top: 20em;
+}
+      .woo {
+        font-weight: 800;
+        font-size: 150px;
+      }
+      .rebel {
+        font-weight: 600;
+        font-size: 25px;
+        letter-spacing: 1.2em;
+        margin-top: -1em;
+        display: block;
+      }
