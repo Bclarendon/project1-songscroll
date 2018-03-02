@@ -272,3 +272,51 @@ body {
     text-align: center;
     margin-top: 2em;
   }
+
+  .prompt {
+    letter-spacing: .3em;
+    margin-top: 30em;
+    text-align: center;
+  }
+  .maren {
+    /* height: 450; */
+    background: white;
+    margin-top: 7em;
+    text-align: center;
+  }
+
+      a {
+        font-family: 'Dorsa';
+        font-size: 200px;
+        background: white;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        transition: 1s;
+        }
+            a:hover {
+              color: white;
+              background-color: black;
+            }
+      .andra {
+        font-family: 'Dorsa';
+        font-size: 120px;
+        color: black;
+        letter-spacing: .5em;
+        transition: 3s;
+      }
+            .andra:hover {
+              letter-spacing: 0em;
+            }
+      .courtesy {
+        font-size: 14px;
+        color: black;
+        padding-bottom: 15px;
+      }
+      .images {
+        margin-top: 1.5em;
+      }
+      .img1 {
+      }
+      .img2 {
+      }
